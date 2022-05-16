@@ -1,0 +1,30 @@
+body
+{    
+    color: #a8a8a8;
+    background-color: #333;
+    font-family: "Segoe UI";
+    padding: 7px;
+    max-width: 700px;
+}
+
+h1, h2, h3
+{
+    color: #ddd;
+    margin-bottom: 2px;
+    padding-bottom: 0;    
+}
+
+h2 {
+    color: #e2c08d;
+    font-variant: small-caps; 
+}
+
+p {
+    padding: 0;
+    margin: 0 0 5px 0;
+}
+
+a {
+    color: #d8d8d8;   
+    text-decoration-style: dotted;
+}
