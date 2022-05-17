@@ -34,11 +34,13 @@ a {
 
 .headshot {
     float: right;
-    padding: 10px 30px;    
+    padding: 20px 30px;    
 }
 
 .headshot img {
     border-radius: 9999px;
+    height: 170px;
+    width: 170px;
 }
 
 .footer {
