@@ -2,7 +2,9 @@ body {
     color: #444;
     background-color: #dedede;
     font-family: Calibri, 'Segoe UI', 'Open Sans', Avenir, 'Helvetica Neue';
+    font-size: 1.4em;
     padding: 7px;
+    margin-bottom: 200px;
 }
 
 h1, h2, h3 {
@@ -41,5 +43,4 @@ a {
 
 .footer {
     margin-top: 40px;
-    min-height: 200px;
 }
