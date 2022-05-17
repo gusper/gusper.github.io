@@ -1,21 +1,18 @@
-body
-{    
-    color: #a8a8a8;
-    background-color: #333;
-    font-family: "Segoe UI";
+body {    
+    color: #444;
+    background-color: #dedede;
+    font-family: Calibri;
     padding: 7px;
-    max-width: 700px;
 }
 
-h1, h2, h3
-{
-    color: #ddd;
+h1, h2, h3 {
+    color: #555;
     margin-bottom: 2px;
     padding-bottom: 0;    
 }
 
-h2 {
-    color: #e2c08d;
+h1, h2 {
+    color: #111;
     font-variant: small-caps; 
 }
 
@@ -25,6 +22,25 @@ p {
 }
 
 a {
-    color: #d8d8d8;   
+    color: #333;   
     text-decoration-style: dotted;
+}
+
+.container {
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+.headshot {
+    float: right;
+    padding: 10px 30px;    
+}
+
+.headshot img {
+    border-radius: 9999px;
+}
+
+.footer {
+    margin-top: 40px;
+    min-height: 200px;
 }
