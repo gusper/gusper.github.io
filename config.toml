@@ -42,6 +42,11 @@ title = "Spotify"
 url = "https://open.spotify.com/artist/0IA7AlQwNOapn6AOWGbIRz?si=iWOYH1A7R3e3XoC4gmOrTg"
 
 [[params.socialIcons]]
+icon = "fa-brands fa-github"
+title = "GitHub"
+url = "https://github.com/gusper"
+
+[[params.socialIcons]]
 icon = "fa-brands fa-deviantart"
 title = "DeviantArt"
 url = "https://deviantart.com/gusp3r/gallery"
@@ -89,7 +94,6 @@ url = "https://deviantart.com/gusp3r/gallery"
   weight = 700
   identifier = "art"
   url = "/art"
-
 
 [module]
   # uncomment line below for temporary local development of module
