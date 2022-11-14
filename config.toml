@@ -13,6 +13,7 @@ fullPostContent = false
 mainSections = []
 doNotLoadAnimations = true # Animations are loaded by default
 customCss = ["css/custom.css"]
+googleAnalytics = "UA-429435-1"
 gtagId = "G-253774966"
 
 [[params.socialIcons]]
