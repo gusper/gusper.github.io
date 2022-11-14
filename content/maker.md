@@ -1,0 +1,2 @@
+## Maker stuff
+I like making stuff. Mostly into woodworking but also dabble with 3d printing and using lasers to cut stuff with our Glowforge. This is something that my wife and I have ended up doing together a lot more over time. You can follow our journey (pretty much from the start) [here](https://www.instagram.com/gapmade_/).

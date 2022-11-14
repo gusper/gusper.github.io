@@ -1,0 +1,94 @@
+baseURL = 'http://gusperez.com/'
+languageCode = 'en-us'
+title = 'Gus Perez'
+
+[params]
+copyright = "Gus Perez 2000-{{ YEAR }}"
+title = "Gus Perez"
+author = "Gus Perez"
+profilePicture = "img/gus.png"
+description = ""
+images = ["images/site-feature-image.png"]
+fullPostContent = false
+mainSections = []
+
+[[params.socialIcons]]
+icon = "fa-brands fa-mastodon"
+title = "Mastodon"
+url = "https://mastodon.social/@gusper"
+
+[social]
+  twitter = "gusper"
+
+[[params.socialIcons]]
+icon = "fa-brands fa-twitter"
+title = "Twitter"
+url = "https://twitter.com/gusper"
+
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "LinkedIn"
+url = "https://linkedin.com/in/gusperez/"
+
+[[params.socialIcons]]
+icon = "fas fa-envelope"
+title = "e-mail"
+url = "mailto:hello@gusperez.com"
+
+[[params.socialIcons]]
+icon = "fa-brands fa-spotify"
+title = "Spotify"
+url = "https://open.spotify.com/artist/0IA7AlQwNOapn6AOWGbIRz?si=iWOYH1A7R3e3XoC4gmOrTg"
+
+
+[menu]
+
+  [[menu.main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[menu.main]]
+  name = "Blog"
+  weight = 200
+  identifier = "blog"
+  url = "/blog/"
+
+  [[menu.main]]
+  name = "Music"
+  weight = 300
+  identifier = "music"
+  url = "/music"
+
+  [[menu.main]]
+  name = "Maker"
+  weight = 400
+  identifier = "maker"
+  url = "/maker"
+
+  [[menu.main]]
+  name = "Software"
+  weight = 500
+  identifier = "software"
+  url = "/software"
+
+  [[menu.main]]
+  name = "Photography"
+  weight = 600
+  identifier = "photography"
+  url = "/photography"
+
+  [[menu.main]]
+  name = "Art"
+  weight = 700
+  identifier = "art"
+  url = "/art"
+
+
+[module]
+  # uncomment line below for temporary local development of module
+  # replacements = "github.com/lxndrblz/anatole -> ../../anatole"
+  [[module.imports]]
+    path = "github.com/lxndrblz/anatole"
+    disable = false
