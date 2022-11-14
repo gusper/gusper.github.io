@@ -41,6 +41,10 @@ icon = "fa-brands fa-spotify"
 title = "Spotify"
 url = "https://open.spotify.com/artist/0IA7AlQwNOapn6AOWGbIRz?si=iWOYH1A7R3e3XoC4gmOrTg"
 
+[[params.socialIcons]]
+icon = "fa-brands fa-deviantart"
+title = "DeviantArt"
+url = "https://deviantart.com/gusp3r/gallery"
 
 [menu]
 
