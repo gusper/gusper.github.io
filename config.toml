@@ -11,6 +11,7 @@ description = ""
 images = ["images/site-feature-image.png"]
 fullPostContent = false
 mainSections = []
+doNotLoadAnimations = true # Animations are loaded by default
 
 [[params.socialIcons]]
 icon = "fa-brands fa-mastodon"
