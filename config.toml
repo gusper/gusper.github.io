@@ -13,7 +13,8 @@ fullPostContent = false
 mainSections = []
 doNotLoadAnimations = true # Animations are loaded by default
 customCss = ["css/custom.css"]
-gtagId = "G-253774966"
+# gtagId = "G-253774966"
+gtagId = "G-F3BD84Q92C"
 # googleSiteVerify = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
 enableRobotsTXT = true
 
