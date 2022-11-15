@@ -15,6 +15,7 @@ doNotLoadAnimations = true # Animations are loaded by default
 customCss = ["css/custom.css"]
 gtagId = "G-F3BD84Q92C"
 enableRobotsTXT = true
+favicon = "favicons/"
 
 [[params.socialIcons]]
 icon = "fa-brands fa-mastodon"
