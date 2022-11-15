@@ -1,7 +1,28 @@
+/* Better fonts */
 * {
     font-family: open sans, segoe ui, sans-serif;
 }
 
+/* Brighter hyperlinks in dark theme */
 .theme--dark .post__content a {
     color: #7eace4;
+}
+
+/* Mobile burger more prominent */
+a.navbar-burger {
+    height: 4.25rem;
+    width: 5.25rem;
+}
+.navbar-burger__line {
+    height: 2px;
+    width: 19px;
+}
+.navbar-burger__line:nth-child(1) {
+    top: calc(50% - 8px);
+}
+.navbar-burger__line:nth-child(2) {
+    top: calc(50% - 2px);
+}
+.navbar-burger__line:nth-child(3) {
+    top: calc(50% + 4px);
 }
