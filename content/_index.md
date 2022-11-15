@@ -6,4 +6,4 @@ Outside of work, I have a rotation of hobbies I get into pretty obsessively. [Pl
 This site has been around since 2000, but I simplified things in 2022. I basically started from scratch, migrated from WordPress to [Hugo](https://gohugo.io/), etc. If you were looking for something specific but can't find it, [email me](mailto:hello@gusperez.com) and I'll dig it up and repost it [here](/blog/).
 
 ## Contact
-The easiest way to reach me is [email](mailto:hello@gusperez.com), but you can also find me on <a rel="me" href="https://mastodon.social/@gusper">Mastodon</a>, [Mastodon](https://mastodon.social/@gusper), [Twitter](https://twitter.com/gusper), and [LinkedIn](https://www.linkedin.com/in/gusperez/).
+The easiest way to reach me is [email](mailto:hello@gusperez.com), but you can also find me on [Mastodon](https://mastodon.social/@gusper), [Twitter](https://twitter.com/gusper), and [LinkedIn](https://www.linkedin.com/in/gusperez/).
