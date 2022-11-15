@@ -3,25 +3,24 @@ languageCode = 'en-us'
 title = 'Gus Perez'
 
 [params]
-copyright = "Gus Perez 2000-{{ YEAR }}"
 title = "Gus Perez"
 author = "Gus Perez"
 profilePicture = "img/gus.png"
 description = ""
 images = ["images/site-feature-image.png"]
 fullPostContent = false
+postSectionName = "blog"
 mainSections = []
 doNotLoadAnimations = true # Animations are loaded by default
 customCss = ["css/custom.css"]
-# gtagId = "G-253774966"
 gtagId = "G-F3BD84Q92C"
-# googleSiteVerify = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
 enableRobotsTXT = true
 
 [[params.socialIcons]]
 icon = "fa-brands fa-mastodon"
 title = "Mastodon"
 url = "https://mastodon.social/@gusper"
+html_attributes = "rel=\"me\""
 
 [social]
   twitter = "gusper"
