@@ -14,6 +14,8 @@ mainSections = []
 doNotLoadAnimations = true # Animations are loaded by default
 customCss = ["css/custom.css"]
 gtagId = "G-253774966"
+# googleSiteVerify = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
+enableRobotsTXT = true
 
 [[params.socialIcons]]
 icon = "fa-brands fa-mastodon"
