@@ -1,6 +1,7 @@
 baseURL = 'https://gusperez.com/'
 languageCode = 'en-us'
 title = 'Gus Perez'
+include = ["/.well-known"]
 
 [params]
 title = "Gus Perez"
