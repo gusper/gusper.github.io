@@ -3,6 +3,10 @@
     font-family: open sans, segoe ui, sans-serif;
 }
 
+.archive__list-title {
+    text-transform: none;
+}
+
 /* Brighter hyperlinks in dark theme */
 .theme--dark .post__content a {
     color: #7eace4;
