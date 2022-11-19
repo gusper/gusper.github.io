@@ -1,7 +1,7 @@
 ---
 title: "Automatically updating Visual Studio  overnight"
 date: 2022-11-19T11:19:33-08:00
-draft: true
+draft: false
 ---
 
 A while back I ran across the [dotnet-vs](https://github.com/devlooped/dotnet-vs) project by [Kzu](https://www.cazzulino.com/about/). It's a super handy set of tools for VS from the CLI. 
