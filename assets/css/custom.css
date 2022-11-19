@@ -1,32 +1,27 @@
 /* Better fonts */
 * {
-    font-family: colfax web, open sans, segoe ui, sans-serif;
+    font-family: 'colfax web', open sans, segoe ui, sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: freight-text-pro, Georgia, serif;
+    font-family: 'colfax web', Georgia, serif;
     margin-bottom: 0.15rem;
 }
 
 .archive__heading {
-    font-family: freight-text-pro, Georgia, serif;
+    font-family: 'colfax web', Georgia, serif;
     font-size: 3rem;
 }
 
 p {
     margin-top: 0.45em;
-    line-height: 1.4em
+    line-height: 1.4em;
 }
 
 .sidebar__introduction-title a {
-    font-family: freight-text-pro, Georgia, serif;
+    font-family: 'colfax web', Georgia, serif;
     font-size: 5rem;
     text-transform: none;
-}
-
-/* Social icons */
-.fa-2x {
-    font-size: 1.5em;
 }
 
 .archive__list-title {
