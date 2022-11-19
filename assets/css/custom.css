@@ -4,17 +4,17 @@
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: adelle, Georgia, serif;
+    font-family: Adelle, Georgia, serif;
     margin-bottom: 0.15rem;
 }
 
 .archive__heading {
-    font-family: adelle, Georgia, serif;
+    font-family: Adelle, Georgia, serif;
     font-size: 3rem;
 }
 
 .sidebar__introduction-title a {
-    font-family: adelle, Georgia, serif;
+    font-family: Adelle, Georgia, serif;
     font-size: 5rem;
     text-transform: none;
 }
@@ -50,4 +50,10 @@ a.navbar-burger {
 }
 .navbar-burger__line:nth-child(3) {
     top: calc(50% + 4px);
+}
+
+/* Headshot */
+.sidebar__introduction-profileimage {
+    width: 160px;
+    height: 160px;
 }
