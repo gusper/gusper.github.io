@@ -57,3 +57,43 @@ a.navbar-burger {
     width: 160px;
     height: 160px;
 }
+
+/* Layouts */
+
+@media screen and (min-width: 961px) {
+    .wrapper__main {
+        width:calc(.7 * 100%)
+    }
+}
+
+@media screen and (min-width: 1921px) {
+    .wrapper__main {
+        width:calc(.7 * 80%)
+    }
+}
+
+@media screen and (min-width: 961px) {
+    .wrapper__main--fullscreen {
+        width:100%;
+        margin-top: 0
+    }
+}
+
+@media screen and (min-width: 1921px) {
+    .wrapper__main--fullscreen {
+        width:1920px
+    }
+}
+
+@media screen and (min-width: 961px) {
+    .wrapper__sidebar {
+        width:calc(calc(1 - .7) * 100%);
+        padding: 0
+    }
+}
+
+@media screen and (min-width: 1921px) {
+    .wrapper__sidebar {
+        width:calc(calc(1 - .7) * 80%)
+    }
+}
