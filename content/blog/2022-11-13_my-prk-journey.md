@@ -1,5 +1,5 @@
 ---
-title: "My PRK Journey"
+title: "My PRK journey"
 date: 2022-11-13T14:19:04-08:00
 draft: false
 ---
