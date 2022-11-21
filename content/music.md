@@ -13,7 +13,7 @@ I'm hoping to get around to recording more and will share that under the 9U5P mo
 Back in the 90s and early aughts, I played in a band called Opus80. We haven't played a show in ages but still get together to jam whenever we get a chance. More recently we've recorded [some videos](https://www.youtube.com/watch?v=oFWiSBx_elE) for charity events at work. See more on our old [YouTube channel](https://www.youtube.com/watch?v=6wqmfkVMIyM).
 
 ## Song transcriptions (tabs, chord charts, etc.)
-93 songs I've transcribed and shared as of 11/20/2022.
+93 songs I've transcribed and shared as of November 20, 2022:
 
 * Addict - [Teenage Angel](https://tabs.ultimate-guitar.com/tab/addict/teenage-angel-tabs-1465340)
 * Alice in Chains - [All I Am](https://tabs.ultimate-guitar.com/tab/alice-in-chains/all-i-am-chords-2459374)
