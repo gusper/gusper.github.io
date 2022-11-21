@@ -2,9 +2,9 @@
 
 I created [GuitarTube.org](https://guitartube.org) in 2016. Some folks have found it useful, so I'm keeping it around. Still may do more, but we'll see. 
 
-I've also been transcribing songs I enjoy more and more over the years and sharing them on [Ultimate Guitar](https://www.ultimate-guitar.com/contribution/6193383-gusp3r/tabs) and [some on Soundslice](https://www.soundslice.com/users/gusper/).
+I've also been transcribing songs I enjoy more and more over the years and sharing them on [Ultimate Guitar](https://www.ultimate-guitar.com/contribution/6193383-gusp3r/tabs) and [some on Soundslice](https://www.soundslice.com/users/gusper/). Scroll down to see the full list.
 
-## 9U5P
+## 9u5p
 
 I'm hoping to get around to recording more and will share that under the 9U5P moniker. See more over on [Spotify and other streaming services](https://distrokid.com/hyperfollow/9u5p/rerise). You can also check out [my Soundcloud page](https://soundcloud.com/9u5p).
 
@@ -15,97 +15,97 @@ Back in the 90s and early aughts, I played in a band called Opus80. We haven't p
 ## Song transcriptions (tabs, chord charts, etc.)
 93 songs I've transcribed and shared as of November 20, 2022:
 
-* Addict - [Teenage Angel](https://tabs.ultimate-guitar.com/tab/addict/teenage-angel-tabs-1465340)
-* Alice in Chains - [All I Am](https://tabs.ultimate-guitar.com/tab/alice-in-chains/all-i-am-chords-2459374)
-* Alice in Chains - [Maybe](https://tabs.ultimate-guitar.com/tab/alice-in-chains/maybe-chords-2457172)
-* ANSON - [Hailey](https://tabs.ultimate-guitar.com/tab/anson/hailey-chords-2580825)
-* ANSON - [Unbroken](https://tabs.ultimate-guitar.com/tab/anson/unbroken-chords-3563681)
-* Arrows to Athens - [City Of Angels](https://tabs.ultimate-guitar.com/tab/arrows-to-athens/city-of-angels-chords-1840623)
-* Arrows to Athens - [Firing Squad](https://tabs.ultimate-guitar.com/tab/arrows-to-athens/firing-squad-chords-1840588)
-* Benne - [Berühren](https://tabs.ultimate-guitar.com/tab/2480960)
-* Benne - [Berühren](https://tabs.ultimate-guitar.com/tab/2477776)
-* Bleachers - [Like A River Runs](https://tabs.ultimate-guitar.com/tab/bleachers/like-a-river-runs-chords-1505582)
-* Blossom - [Us Against The World](https://tabs.ultimate-guitar.com/tab/blossom/us-against-the-world-chords-1964653)
-* Blue October - [Big Love](https://tabs.ultimate-guitar.com/tab/blue-october/big-love-chords-4386539)
-* Blue October - [Change](https://tabs.ultimate-guitar.com/tab/blue-october/change-chords-4386647)
-* Blue October - [Completely](https://tabs.ultimate-guitar.com/tab/blue-october/completely-chords-3414776)
-* Blue October - [Fight For Love](https://tabs.ultimate-guitar.com/tab/blue-october/fight-for-love-chords-3391163)
-* Blue October - [I Laugh At Myself](https://tabs.ultimate-guitar.com/tab/blue-october/i-laugh-at-myself-chords-3461660)
-* Blue October - [I Will Follow You](https://tabs.ultimate-guitar.com/tab/blue-october/i-will-follow-you-chords-3394136)
-* Blue October - [Stay With Me](https://tabs.ultimate-guitar.com/tab/blue-october/stay-with-me-chords-3461747)
-* Blue October - [The Girl Who Stole My Heart](https://tabs.ultimate-guitar.com/tab/blue-october/the-girl-who-stole-my-heart-chords-3486107)
-* Blue October - [The Way I Used To Love You](https://tabs.ultimate-guitar.com/tab/blue-october/the-way-i-used-to-love-you-chords-3955403)
-* Boston Manor - [Bad Machine](https://tabs.ultimate-guitar.com/tab/boston-manor/bad-machine-chords-2455164)
-* Bread & Wine - [Love Come In](https://tabs.ultimate-guitar.com/tab/bread-wine/love-come-in-chords-2469682)
-* Candyskins - [Wembley](https://tabs.ultimate-guitar.com/tab/candyskins/wembley-chords-4401161)
-* Carobae - [I Dont Even Care Pick Me Up](https://tabs.ultimate-guitar.com/tab/carobae/i-dont-even-care-pick-me-up-chords-3777140)
-* Cataldo - [If Youre A Lifer](https://tabs.ultimate-guitar.com/tab/cataldo/if-youre-a-lifer-chords-4389737)
-* Dada - [Moon](https://tabs.ultimate-guitar.com/tab/dada/moon-chords-1849111)
-* Eric Clapton - [Spiral](https://tabs.ultimate-guitar.com/tab/eric-clapton/spiral-tabs-1853329)
-* Eric Clapton - [Spiral](https://tabs.ultimate-guitar.com/tab/eric-clapton/spiral-guitar-pro-1853331)
-* Fivefold - [Wont Let Go](https://tabs.ultimate-guitar.com/tab/fivefold/wont-let-go-chords-1801809)
-* Fuel - [Give](https://tabs.ultimate-guitar.com/tab/fuel/give-chords-3930170)
-* Fuel - [Wander](https://tabs.ultimate-guitar.com/tab/fuel/wander-chords-1468698)
-* Glen Hansard - [Movin On](https://tabs.ultimate-guitar.com/tab/glen-hansard/movin-on-chords-2295785)
-* Glen Hansard - [Why Woman](https://tabs.ultimate-guitar.com/tab/glen-hansard/why-woman-chords-2291053)
-* Greg Holden - [Boys In The Street](https://tabs.ultimate-guitar.com/tab/greg-holden/boys-in-the-street-guitar-pro-2166105)
-* Greg Holden - [Boys In The Street](https://tabs.ultimate-guitar.com/tab/greg-holden/boys-in-the-street-chords-1733060)
-* Gus Black - [Unloaded](https://tabs.ultimate-guitar.com/tab/gus-black/unloaded-chords-1465355)
-* He Is We - [Every Other Man](https://tabs.ultimate-guitar.com/tab/he-is-we/every-other-man-chords-2372873)
-* He Is We - [Frankenstein](https://tabs.ultimate-guitar.com/tab/he-is-we/frankenstein-chords-3957271)
-* Isaac Gracie - [Reverie](https://tabs.ultimate-guitar.com/tab/isaac-gracie/reverie-chords-1965271)
-* James Blunt - [2005](https://tabs.ultimate-guitar.com/tab/james-blunt/2005-chords-1982403)
-* John Mayer - [Slow Dancing In A Burning Room](https://tabs.ultimate-guitar.com/tab/john-mayer/slow-dancing-in-a-burning-room-guitar-pro-2283623)
-* Join The Riot - [Dark Sundays](https://tabs.ultimate-guitar.com/tab/join-the-riot/dark-sundays-chords-1841521)
-* Jonas & The Massive Attraction - [Not A Hero](https://tabs.ultimate-guitar.com/tab/jonas-the-massive-attraction/not-a-hero-chords-1965221)
-* Jonas & The Massive Attraction - [The Deep End](https://tabs.ultimate-guitar.com/tab/jonas-the-massive-attraction/the-deep-end-chords-1965013)
-* K's Choice - [I Cant Stand The Rain](https://tabs.ultimate-guitar.com/tab/ks-choice/i-cant-stand-the-rain-chords-2175037)
-* Kopek - [The Water Song](https://tabs.ultimate-guitar.com/tab/kopek/the-water-song-tabs-1678456)
-* Lonely The Brave - [Diamond Days](https://tabs.ultimate-guitar.com/tab/lonely-the-brave/diamond-days-chords-1968521)
-* Lukr - [Fucked Up Summer](https://tabs.ultimate-guitar.com/tab/lukr/fucked-up-summer-chords-1850992)
-* Mark Curry - [Blow Me Down](https://tabs.ultimate-guitar.com/tab/mark-curry/blow-me-down-chords-1465349)
-* Mark Curry - [Drinkin And How](https://tabs.ultimate-guitar.com/tab/mark-curry/drinkin-and-how-chords-1503773)
-* Mark Curry - [Its Only Time](https://tabs.ultimate-guitar.com/tab/mark-curry/its-only-time-tabs-1465350)
-* Mark Curry - [Nothin At All](https://tabs.ultimate-guitar.com/tab/mark-curry/nothin-at-all-chords-1472213)
-* Mark Curry - [Somehow](https://tabs.ultimate-guitar.com/tab/mark-curry/somehow-tabs-1465352)
-* Matt Nathanson - [Bent](https://tabs.ultimate-guitar.com/tab/matt-nathanson/bent-chords-2405167)
-* Matt Nathanson - [Let You Go](https://tabs.ultimate-guitar.com/tab/matt-nathanson/let-you-go-chords-2485284)
-* Matthew Good - [Bad Guys Win](https://tabs.ultimate-guitar.com/tab/matthew-good/bad-guys-win-chords-1985051)
-* Matthew Good - [Dreading It](https://tabs.ultimate-guitar.com/tab/matthew-good/dreading-it-chords-3031739)
-* Matthew Mayfield - [Gods Fault](https://tabs.ultimate-guitar.com/tab/matthew-mayfield/gods-fault-chords-1904807)
-* Matthew Mayfield - [History](https://tabs.ultimate-guitar.com/tab/matthew-mayfield/history-chords-1919679)
-* Matthew Mayfield - [Indigo](https://tabs.ultimate-guitar.com/tab/matthew-mayfield/indigo-chords-1965747)
-* Matthew Mayfield - [Raw Diamond Ring](https://tabs.ultimate-guitar.com/tab/matthew-mayfield/raw-diamond-ring-chords-1967969)
-* Mayday Parade - [If I Were You](https://tabs.ultimate-guitar.com/tab/mayday-parade/if-i-were-you-chords-2531907)
-* Mayday Parade - [Sunnyland](https://tabs.ultimate-guitar.com/tab/mayday-parade/sunnyland-chords-2472404)
-* Misc Television - [Station Eleven - Doctor Eleven](https://tabs.ultimate-guitar.com/tab/misc-television/station-eleven-doctor-eleven-tabs-4038400)
-* Mumford & Sons - [The Wild](https://tabs.ultimate-guitar.com/tab/mumford-sons/the-wild-chords-2523678)
-* Murder by Death - [Alas](https://tabs.ultimate-guitar.com/tab/murder-by-death/alas-chords-2467646)
-* My Friend Steve - [Charmed](https://tabs.ultimate-guitar.com/tab/my-friend-steve/charmed-chords-2547948)
-* Nick Santino - [Never Coming Back](https://tabs.ultimate-guitar.com/tab/nick-santino/never-coming-back-chords-2471632)
-* Nil Lara - [How Was I To Know](https://tabs.ultimate-guitar.com/tab/nil-lara/how-was-i-to-know-chords-1465367)
-* Noah Gundersen - [Watermelon](https://tabs.ultimate-guitar.com/tab/noah-gundersen/watermelon-chords-2861651)
-* Our Lady Peace - [Hiding Place For Hearts](https://tabs.ultimate-guitar.com/tab/our-lady-peace/hiding-place-for-hearts-chords-2326669)
-* Picture This - [Gritty Picture](https://tabs.ultimate-guitar.com/tab/picture-this/gritty-picture-chords-2262375)
-* Picture This - [Take My Hand](https://tabs.ultimate-guitar.com/tab/picture-this/take-my-hand-chords-1864034)
-* Rachel Taylor - [Silence Looks Good On You](https://tabs.ultimate-guitar.com/tab/rachel-taylor/silence-looks-good-on-you-chords-1505584)
-* Rhiannon Giddens - [String Of Pearls](https://tabs.ultimate-guitar.com/tab/rhiannon-giddens/string-of-pearls-chords-2175085)
-* Rhiannon Giddens - [String Of Pearls](https://tabs.ultimate-guitar.com/tab/rhiannon-giddens/string-of-pearls-guitar-pro-2175091)
-* Ryan Star - [My Life With You](https://tabs.ultimate-guitar.com/tab/ryan-star/my-life-with-you-chords-1465353)
-* Ryan Star - [Real World](https://tabs.ultimate-guitar.com/tab/ryan-star/real-world-chords-1776636)
-* Soen - [Fortune](https://tabs.ultimate-guitar.com/tab/soen/fortune-guitar-pro-4075780)
-* Soen - [Fortune](https://tabs.ultimate-guitar.com/tab/soen/fortune-chords-4067707)
-* STEEPLES (US, St. Louis, MO) - [Sticks And Stones](https://tabs.ultimate-guitar.com/tab/steeples-us-st-louis-mo/sticks-and-stones-chords-2437773)
-* Story of the Year - [Can Anybody Hear Me](https://tabs.ultimate-guitar.com/tab/story-of-the-year/can-anybody-hear-me-chords-2261103)
-* Story of the Year - [I Swear Im Okay](https://tabs.ultimate-guitar.com/tab/story-of-the-year/i-swear-im-okay-chords-2258007)
-* The Airborne Toxic Event - [Brother How Was The War](https://tabs.ultimate-guitar.com/tab/the-airborne-toxic-event/brother-how-was-the-war-chords-3226211)
-* The Frames - [Bad Bone](https://tabs.ultimate-guitar.com/tab/the-frames/bad-bone-chords-1840814)
-* The Frames - [No More I Love Yous](https://tabs.ultimate-guitar.com/tab/the-frames/no-more-i-love-yous-chords-1465365)
-* The Frames - [This Low](https://tabs.ultimate-guitar.com/tab/the-frames/this-low-chords-1840891)
-* The Howl & The Hum - [Hostages Alternate](https://tabs.ultimate-guitar.com/tab/the-howl-the-hum/hostages-alternate-guitar-pro-3731480)
-* The Howl & The Hum - [Smoke](https://tabs.ultimate-guitar.com/tab/the-howl-the-hum/smoke-chords-3760403)
-* The Hunna - [Bonfire](https://tabs.ultimate-guitar.com/tab/the-hunna/bonfire-chords-1856388)
-* The Northern Pikes - [Hole In The Ground](https://tabs.ultimate-guitar.com/tab/the-northern-pikes/hole-in-the-ground-chords-4305107)
-* Thriving Ivory - [This Is It](https://tabs.ultimate-guitar.com/tab/thriving-ivory/this-is-it-chords-2255463)
-* Travis Greene - [Love Will Aways Win](https://tabs.ultimate-guitar.com/tab/travis-greene/love-will-aways-win-chords-2476942)
+* Addict - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/addict/teenage-angel-tabs-1465340" target="blank">Teenage Angel</a>{{</rawhtml>}}
+* Alice in Chains - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/alice-in-chains/all-i-am-chords-2459374" target="blank">All I Am</a>{{</rawhtml>}}
+* Alice in Chains - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/alice-in-chains/maybe-chords-2457172" target="blank">Maybe</a>{{</rawhtml>}}
+* ANSON - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/anson/hailey-chords-2580825" target="blank">Hailey</a>{{</rawhtml>}}
+* ANSON - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/anson/unbroken-chords-3563681" target="blank">Unbroken</a>{{</rawhtml>}}
+* Arrows to Athens - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/arrows-to-athens/city-of-angels-chords-1840623" target="blank">City Of Angels</a>{{</rawhtml>}}
+* Arrows to Athens - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/arrows-to-athens/firing-squad-chords-1840588" target="blank">Firing Squad</a>{{</rawhtml>}}
+* Benne - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/2480960" target="blank">Berühren</a>{{</rawhtml>}}
+* Benne - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/2477776" target="blank">Berühren</a>{{</rawhtml>}}
+* Bleachers - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/bleachers/like-a-river-runs-chords-1505582" target="blank">Like A River Runs</a>{{</rawhtml>}}
+* Blossom - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/blossom/us-against-the-world-chords-1964653" target="blank">Us Against The World</a>{{</rawhtml>}}
+* Blue October - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/blue-october/big-love-chords-4386539" target="blank">Big Love</a>{{</rawhtml>}}
+* Blue October - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/blue-october/change-chords-4386647" target="blank">Change</a>{{</rawhtml>}}
+* Blue October - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/blue-october/completely-chords-3414776" target="blank">Completely</a>{{</rawhtml>}}
+* Blue October - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/blue-october/fight-for-love-chords-3391163" target="blank">Fight For Love</a>{{</rawhtml>}}
+* Blue October - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/blue-october/i-laugh-at-myself-chords-3461660" target="blank">I Laugh At Myself</a>{{</rawhtml>}}
+* Blue October - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/blue-october/i-will-follow-you-chords-3394136" target="blank">I Will Follow You</a>{{</rawhtml>}}
+* Blue October - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/blue-october/stay-with-me-chords-3461747" target="blank">Stay With Me</a>{{</rawhtml>}}
+* Blue October - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/blue-october/the-girl-who-stole-my-heart-chords-3486107" target="blank">The Girl Who Stole My Heart</a>{{</rawhtml>}}
+* Blue October - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/blue-october/the-way-i-used-to-love-you-chords-3955403" target="blank">The Way I Used To Love You</a>{{</rawhtml>}}
+* Boston Manor - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/boston-manor/bad-machine-chords-2455164" target="blank">Bad Machine</a>{{</rawhtml>}}
+* Bread & Wine - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/bread-wine/love-come-in-chords-2469682" target="blank">Love Come In</a>{{</rawhtml>}}
+* Candyskins - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/candyskins/wembley-chords-4401161" target="blank">Wembley</a>{{</rawhtml>}}
+* Carobae - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/carobae/i-dont-even-care-pick-me-up-chords-3777140" target="blank">I Dont Even Care Pick Me Up</a>{{</rawhtml>}}
+* Cataldo - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/cataldo/if-youre-a-lifer-chords-4389737" target="blank">If Youre A Lifer</a>{{</rawhtml>}}
+* Dada - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/dada/moon-chords-1849111" target="blank">Moon</a>{{</rawhtml>}}
+* Eric Clapton - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/eric-clapton/spiral-tabs-1853329" target="blank">Spiral</a>{{</rawhtml>}}
+* Eric Clapton - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/eric-clapton/spiral-guitar-pro-1853331" target="blank">Spiral</a>{{</rawhtml>}}
+* Fivefold - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/fivefold/wont-let-go-chords-1801809" target="blank">Wont Let Go</a>{{</rawhtml>}}
+* Fuel - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/fuel/give-chords-3930170" target="blank">Give</a>{{</rawhtml>}}
+* Fuel - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/fuel/wander-chords-1468698" target="blank">Wander</a>{{</rawhtml>}}
+* Glen Hansard - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/glen-hansard/movin-on-chords-2295785" target="blank">Movin On</a>{{</rawhtml>}}
+* Glen Hansard - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/glen-hansard/why-woman-chords-2291053" target="blank">Why Woman</a>{{</rawhtml>}}
+* Greg Holden - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/greg-holden/boys-in-the-street-guitar-pro-2166105" target="blank">Boys In The Street</a>{{</rawhtml>}}
+* Greg Holden - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/greg-holden/boys-in-the-street-chords-1733060" target="blank">Boys In The Street</a>{{</rawhtml>}}
+* Gus Black - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/gus-black/unloaded-chords-1465355" target="blank">Unloaded</a>{{</rawhtml>}}
+* He Is We - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/he-is-we/every-other-man-chords-2372873" target="blank">Every Other Man</a>{{</rawhtml>}}
+* He Is We - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/he-is-we/frankenstein-chords-3957271" target="blank">Frankenstein</a>{{</rawhtml>}}
+* Isaac Gracie - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/isaac-gracie/reverie-chords-1965271" target="blank">Reverie</a>{{</rawhtml>}}
+* James Blunt - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/james-blunt/2005-chords-1982403" target="blank">2005</a>{{</rawhtml>}}
+* John Mayer - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/john-mayer/slow-dancing-in-a-burning-room-guitar-pro-2283623" target="blank">Slow Dancing In A Burning Room</a>{{</rawhtml>}}
+* Join The Riot - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/join-the-riot/dark-sundays-chords-1841521" target="blank">Dark Sundays</a>{{</rawhtml>}}
+* Jonas & The Massive Attraction - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/jonas-the-massive-attraction/not-a-hero-chords-1965221" target="blank">Not A Hero</a>{{</rawhtml>}}
+* Jonas & The Massive Attraction - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/jonas-the-massive-attraction/the-deep-end-chords-1965013" target="blank">The Deep End</a>{{</rawhtml>}}
+* K's Choice - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/ks-choice/i-cant-stand-the-rain-chords-2175037" target="blank">I Cant Stand The Rain</a>{{</rawhtml>}}
+* Kopek - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/kopek/the-water-song-tabs-1678456" target="blank">The Water Song</a>{{</rawhtml>}}
+* Lonely The Brave - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/lonely-the-brave/diamond-days-chords-1968521" target="blank">Diamond Days</a>{{</rawhtml>}}
+* Lukr - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/lukr/fucked-up-summer-chords-1850992" target="blank">Fucked Up Summer</a>{{</rawhtml>}}
+* Mark Curry - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/mark-curry/blow-me-down-chords-1465349" target="blank">Blow Me Down</a>{{</rawhtml>}}
+* Mark Curry - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/mark-curry/drinkin-and-how-chords-1503773" target="blank">Drinkin And How</a>{{</rawhtml>}}
+* Mark Curry - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/mark-curry/its-only-time-tabs-1465350" target="blank">Its Only Time</a>{{</rawhtml>}}
+* Mark Curry - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/mark-curry/nothin-at-all-chords-1472213" target="blank">Nothin At All</a>{{</rawhtml>}}
+* Mark Curry - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/mark-curry/somehow-tabs-1465352" target="blank">Somehow</a>{{</rawhtml>}}
+* Matt Nathanson - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/matt-nathanson/bent-chords-2405167" target="blank">Bent</a>{{</rawhtml>}}
+* Matt Nathanson - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/matt-nathanson/let-you-go-chords-2485284" target="blank">Let You Go</a>{{</rawhtml>}}
+* Matthew Good - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/matthew-good/bad-guys-win-chords-1985051" target="blank">Bad Guys Win</a>{{</rawhtml>}}
+* Matthew Good - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/matthew-good/dreading-it-chords-3031739" target="blank">Dreading It</a>{{</rawhtml>}}
+* Matthew Mayfield - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/matthew-mayfield/gods-fault-chords-1904807" target="blank">Gods Fault</a>{{</rawhtml>}}
+* Matthew Mayfield - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/matthew-mayfield/history-chords-1919679" target="blank">History</a>{{</rawhtml>}}
+* Matthew Mayfield - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/matthew-mayfield/indigo-chords-1965747" target="blank">Indigo</a>{{</rawhtml>}}
+* Matthew Mayfield - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/matthew-mayfield/raw-diamond-ring-chords-1967969" target="blank">Raw Diamond Ring</a>{{</rawhtml>}}
+* Mayday Parade - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/mayday-parade/if-i-were-you-chords-2531907" target="blank">If I Were You</a>{{</rawhtml>}}
+* Mayday Parade - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/mayday-parade/sunnyland-chords-2472404" target="blank">Sunnyland</a>{{</rawhtml>}}
+* Misc Television - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/misc-television/station-eleven-doctor-eleven-tabs-4038400" target="blank">Station Eleven - Doctor Eleven</a>{{</rawhtml>}}
+* Mumford & Sons - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/mumford-sons/the-wild-chords-2523678" target="blank">The Wild</a>{{</rawhtml>}}
+* Murder by Death - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/murder-by-death/alas-chords-2467646" target="blank">Alas</a>{{</rawhtml>}}
+* My Friend Steve - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/my-friend-steve/charmed-chords-2547948" target="blank">Charmed</a>{{</rawhtml>}}
+* Nick Santino - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/nick-santino/never-coming-back-chords-2471632" target="blank">Never Coming Back</a>{{</rawhtml>}}
+* Nil Lara - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/nil-lara/how-was-i-to-know-chords-1465367" target="blank">How Was I To Know</a>{{</rawhtml>}}
+* Noah Gundersen - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/noah-gundersen/watermelon-chords-2861651" target="blank">Watermelon</a>{{</rawhtml>}}
+* Our Lady Peace - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/our-lady-peace/hiding-place-for-hearts-chords-2326669" target="blank">Hiding Place For Hearts</a>{{</rawhtml>}}
+* Picture This - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/picture-this/gritty-picture-chords-2262375" target="blank">Gritty Picture</a>{{</rawhtml>}}
+* Picture This - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/picture-this/take-my-hand-chords-1864034" target="blank">Take My Hand</a>{{</rawhtml>}}
+* Rachel Taylor - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/rachel-taylor/silence-looks-good-on-you-chords-1505584" target="blank">Silence Looks Good On You</a>{{</rawhtml>}}
+* Rhiannon Giddens - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/rhiannon-giddens/string-of-pearls-chords-2175085" target="blank">String Of Pearls</a>{{</rawhtml>}}
+* Rhiannon Giddens - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/rhiannon-giddens/string-of-pearls-guitar-pro-2175091" target="blank">String Of Pearls</a>{{</rawhtml>}}
+* Ryan Star - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/ryan-star/my-life-with-you-chords-1465353" target="blank">My Life With You</a>{{</rawhtml>}}
+* Ryan Star - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/ryan-star/real-world-chords-1776636" target="blank">Real World</a>{{</rawhtml>}}
+* Soen - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/soen/fortune-guitar-pro-4075780" target="blank">Fortune</a>{{</rawhtml>}}
+* Soen - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/soen/fortune-chords-4067707" target="blank">Fortune</a>{{</rawhtml>}}
+* STEEPLES (US, St. Louis, MO) - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/steeples-us-st-louis-mo/sticks-and-stones-chords-2437773" target="blank">Sticks And Stones</a>{{</rawhtml>}}
+* Story of the Year - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/story-of-the-year/can-anybody-hear-me-chords-2261103" target="blank">Can Anybody Hear Me</a>{{</rawhtml>}}
+* Story of the Year - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/story-of-the-year/i-swear-im-okay-chords-2258007" target="blank">I Swear Im Okay</a>{{</rawhtml>}}
+* The Airborne Toxic Event - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/the-airborne-toxic-event/brother-how-was-the-war-chords-3226211" target="blank">Brother How Was The War</a>{{</rawhtml>}}
+* The Frames - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/the-frames/bad-bone-chords-1840814" target="blank">Bad Bone</a>{{</rawhtml>}}
+* The Frames - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/the-frames/no-more-i-love-yous-chords-1465365" target="blank">No More I Love Yous</a>{{</rawhtml>}}
+* The Frames - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/the-frames/this-low-chords-1840891" target="blank">This Low</a>{{</rawhtml>}}
+* The Howl & The Hum - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/the-howl-the-hum/hostages-alternate-guitar-pro-3731480" target="blank">Hostages Alternate</a>{{</rawhtml>}}
+* The Howl & The Hum - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/the-howl-the-hum/smoke-chords-3760403" target="blank">Smoke</a>{{</rawhtml>}}
+* The Hunna - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/the-hunna/bonfire-chords-1856388" target="blank">Bonfire</a>{{</rawhtml>}}
+* The Northern Pikes - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/the-northern-pikes/hole-in-the-ground-chords-4305107" target="blank">Hole In The Ground</a>{{</rawhtml>}}
+* Thriving Ivory - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/thriving-ivory/this-is-it-chords-2255463" target="blank">This Is It</a>{{</rawhtml>}}
+* Travis Greene - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/travis-greene/love-will-aways-win-chords-2476942" target="blank">Love Will Aways Win</a>{{</rawhtml>}}
 
