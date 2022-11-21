@@ -1,4 +1,8 @@
-## Software
+---
+title: "Software"
+date: 2022-11-10T14:14:19-08:00
+draft: false
+---
 ### Windows
 Lots of stuff over the years, much of which isn't all that useful nowadays. Here's a quick list of app names and I've provided links to GitHub repos for any that I shared there: [Wordy](https://github.com/gusper/Wordy), [Peekify](https://github.com/gusper/Peekify), TickTalker, DeskTips, Clipboard Snagger, [ezClip](https://github.com/gusper/Peekify), RightSideUp, Hovervue, NameTag, NameTray, Uptime 2000, and a quick version of [Space Invaders](https://github.com/gusper/SpaceInvaders).
 

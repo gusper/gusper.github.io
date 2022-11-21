@@ -1,3 +1,8 @@
+---
+title: "Music"
+date: 2022-11-10T14:14:19-08:00
+draft: false
+---
 ## Guitar 
 
 I created [GuitarTube.org](https://guitartube.org) in 2016. Some folks have found it useful, so I'm keeping it around. Still may do more, but we'll see. 

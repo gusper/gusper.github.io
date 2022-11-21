@@ -78,16 +78,16 @@ url = "https://deviantart.com/gusp3r/gallery"
   url = "/music"
 
   [[menu.main]]
-  name = "Maker"
-  weight = 400
-  identifier = "maker"
-  url = "/maker"
-
-  [[menu.main]]
   name = "Software"
-  weight = 500
+  weight = 400
   identifier = "software"
   url = "/software"
+
+  [[menu.main]]
+  name = "Maker"
+  weight = 500
+  identifier = "maker"
+  url = "/maker"
 
   [[menu.main]]
   name = "Photography"
