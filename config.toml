@@ -21,7 +21,7 @@ favicon = "favicons/"
 [[params.socialIcons]]
 icon = "fa-brands fa-mastodon"
 title = "Mastodon"
-url = "https://mastodon.social/@gusper"
+url = "https://hachyderm.io/@gusper"
 html_attributes = "rel=\"me\""
 
 [social]

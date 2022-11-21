@@ -5,7 +5,7 @@
       {{ if isset .context.Site.Params "copyright" }}
         {{ replace .context.Site.Params.copyright "{{ YEAR }}" (now.Format "2006") | markdownify }}
       {{ else }}
-          <a rel="me" href="https://mastodon.social/@gusper">{{ .context.Site.Params.author }}</a>
+          <a rel="me" href="https://hachyderm.io/@gusper">{{ .context.Site.Params.author }}</a>
         {{ now.Format "2006" }}
       {{ end }}
     </li>
