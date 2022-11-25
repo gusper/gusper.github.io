@@ -75,31 +75,31 @@ url = "https://deviantart.com/gusp3r/gallery"
   name = "Music"
   weight = 300
   identifier = "music"
-  url = "/music"
+  url = "/music/"
 
   [[menu.main]]
   name = "Software"
   weight = 400
   identifier = "software"
-  url = "/software"
+  url = "/software/"
 
   [[menu.main]]
   name = "Maker"
   weight = 500
   identifier = "maker"
-  url = "/maker"
+  url = "/maker/"
 
   [[menu.main]]
   name = "Photography"
   weight = 600
   identifier = "photography"
-  url = "/photography"
+  url = "/photography/"
 
   [[menu.main]]
   name = "Art"
   weight = 700
   identifier = "art"
-  url = "/art"
+  url = "/art/"
 
 [module]
   # uncomment line below for temporary local development of module
