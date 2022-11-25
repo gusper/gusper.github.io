@@ -18,7 +18,7 @@ I'm hoping to get around to recording more and will share that under the 9U5P mo
 Back in the 90s and early aughts, I played in a band called Opus80. We haven't played a show in ages but still get together to jam whenever we get a chance. More recently we've recorded [some videos](https://www.youtube.com/watch?v=oFWiSBx_elE) for charity events at work. See more on our old [YouTube channel](https://www.youtube.com/watch?v=6wqmfkVMIyM).
 
 ## Song transcriptions (tabs, chord charts, etc.)
-94 songs I've transcribed and shared as of November 22, 2022:
+95 songs I've transcribed and shared as of November 24, 2022:
 
 * Addict - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/addict/teenage-angel-tabs-1465340" target="blank">Teenage Angel</a>{{</rawhtml>}} (tabs)
 * Alice in Chains - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/alice-in-chains/all-i-am-chords-2459374" target="blank">All I Am</a>{{</rawhtml>}} (chords)
@@ -97,6 +97,7 @@ Back in the 90s and early aughts, I played in a band called Opus80. We haven't p
 * Rhiannon Giddens - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/rhiannon-giddens/string-of-pearls-chords-2175085" target="blank">String Of Pearls</a>{{</rawhtml>}} (chords)
 * Rhiannon Giddens - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/rhiannon-giddens/string-of-pearls-guitar-pro-2175091" target="blank">String Of Pearls</a>{{</rawhtml>}} (guitarpro)
 * Ryan Cheney - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/ryan-cheney/blame-it-on-bourbon-chords-4434638" target="blank">Blame It On Bourbon</a>{{</rawhtml>}} (chords)
+* Ryan Cheney - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/ryan-cheney/cafe-collin-chords-4436525" target="blank">Cafe Collin</a>{{</rawhtml>}} (chords)
 * Ryan Star - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/ryan-star/my-life-with-you-chords-1465353" target="blank">My Life With You</a>{{</rawhtml>}} (chords)
 * Ryan Star - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/ryan-star/real-world-chords-1776636" target="blank">Real World</a>{{</rawhtml>}} (chords)
 * Soen - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/soen/fortune-guitar-pro-4075780" target="blank">Fortune</a>{{</rawhtml>}} (guitarpro)
