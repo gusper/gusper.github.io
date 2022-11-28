@@ -1,4 +1,4 @@
-module github.com/gusper/gpcom
+module github.com/gusper/gusper.github.io
 
 go 1.19
 
