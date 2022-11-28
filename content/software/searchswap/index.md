@@ -1,7 +1,10 @@
 ---
-title: "Searchswap"
+title: "SearchSwap"
 date: 2022-11-27T18:07:16-08:00
 draft: false
+aliases:
+    - /software/searchswap/
+    - /searchswap
 ---
 ## Installation
 Currently support Microsoft Edge and Google Chrome. I'll consider adding support for Mozilla Firefox based on demand. 
