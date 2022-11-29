@@ -13,6 +13,11 @@ h1, h2, h3, h4, h5, h6 {
     font-size: 3rem;
 }
 
+.sidebar__content {
+    margin-top: 50px;
+    justify-content: unset;
+}
+
 .sidebar__introduction-title a {
     font-family: Adelle, Georgia, serif;
     font-size: 5rem;
