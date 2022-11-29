@@ -1,5 +1,5 @@
 ---
-title: "Automatically updating Visual Studio  overnight"
+title: "Automatically updating Visual Studio overnight"
 date: 2022-11-19T11:19:33-08:00
 draft: false
 ---
