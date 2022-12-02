@@ -22,11 +22,7 @@
     <meta name="author" content="{{ .Site.Params.author }}" />
     <meta
       name="description"
-      content="{{ if .Params.description }}
-        {{- .Params.description -}}
-      {{ else }}
-        {{- .Site.Params.description -}}
-      {{ end }}"
+      content="GusPerez.com - Personal web site for Gus Perez"
     />
     {{ if .Params.redirectUrl }}
       <meta http-equiv="refresh" content="1; url={{ .Params.redirectUrl }}" />
