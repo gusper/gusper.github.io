@@ -1,3 +1,6 @@
+---
+Title: "Home"
+---
 ## Hello! I'm Gus.
 I'm a software engineer based out of the Pacific Northwest in North America. On the work front, I've been at [Microsoft](https://microsoft.com) since I interned back in 1998. I'm currently a Director of Engineering in the Developer Division working on [Visual Studio](https://visualstudio.com). 
 
