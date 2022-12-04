@@ -18,7 +18,7 @@ I'm hoping to get around to recording more and will share that under the 9U5P mo
 Back in the 90s and early aughts, I played in a band called Opus80. We haven't played a show in ages but still get together to jam whenever we get a chance. More recently we've recorded [some videos](https://www.youtube.com/watch?v=oFWiSBx_elE) for charity events at work. See more on our old [YouTube channel](https://www.youtube.com/watch?v=6wqmfkVMIyM).
 
 ## Song transcriptions (tabs, chord charts, etc.)
-97 songs I've transcribed and shared as of December 02, 2022:
+98 songs I've transcribed and shared as of December 04, 2022:
 
 * Addict - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/addict/teenage-angel-tabs-1465340" target="blank">Teenage Angel</a>{{</rawhtml>}} (tabs)
 * Alice in Chains - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/alice-in-chains/all-i-am-chords-2459374" target="blank">All I Am</a>{{</rawhtml>}} (chords)
@@ -43,6 +43,7 @@ Back in the 90s and early aughts, I played in a band called Opus80. We haven't p
 * Boston Manor - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/boston-manor/bad-machine-chords-2455164" target="blank">Bad Machine</a>{{</rawhtml>}} (chords)
 * Bread & Wine - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/bread-wine/love-come-in-chords-2469682" target="blank">Love Come In</a>{{</rawhtml>}} (chords)
 * Candyskins - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/candyskins/wembley-chords-4401161" target="blank">Wembley</a>{{</rawhtml>}} (chords)
+* Candyskins - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/candyskins/wembley-guitar-pro-4446620" target="blank">Wembley</a>{{</rawhtml>}} (guitarpro)
 * Carobae - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/carobae/i-dont-even-care-pick-me-up-chords-3777140" target="blank">I Dont Even Care Pick Me Up</a>{{</rawhtml>}} (chords)
 * Cataldo - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/cataldo/if-youre-a-lifer-chords-4389737" target="blank">If Youre A Lifer</a>{{</rawhtml>}} (chords)
 * Dada - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/dada/moon-chords-1849111" target="blank">Moon</a>{{</rawhtml>}} (chords)
