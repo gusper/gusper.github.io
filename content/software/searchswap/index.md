@@ -8,7 +8,7 @@ aliases:
 ---
 ## Installation
 Currently support Microsoft Edge and Google Chrome. I'll consider adding support for Mozilla Firefox based on demand. 
-* Install for Microsoft Edge (coming soon)
+* [Install for Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/searchswap/mhegncmnkpdckdpomfmedhflbfdkfpie)
 * [Install for Google Chrome](https://chrome.google.com/webstore/detail/searchswap/meakfdkjiehkccdibhahjlgnihicmlel)
 
 ## Overview
