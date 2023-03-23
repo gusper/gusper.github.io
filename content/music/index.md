@@ -18,7 +18,7 @@ I'm hoping to get around to recording more and will share that under the 9U5P mo
 Back in the 90s and early aughts, I played in a band called Opus80. We haven't played a show in ages but still get together to jam whenever we get a chance. More recently we've recorded [some videos](https://www.youtube.com/watch?v=oFWiSBx_elE) for charity events at work. See more on our old [YouTube channel](https://www.youtube.com/watch?v=6wqmfkVMIyM).
 
 ## Song transcriptions (tabs, chord charts, etc.)
-98 songs I've transcribed and shared as of December 04, 2022:
+100 songs I've transcribed and shared as of March 23, 2023:
 
 * Addict - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/addict/teenage-angel-tabs-1465340" target="blank">Teenage Angel</a>{{</rawhtml>}} (tabs)
 * Alice in Chains - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/alice-in-chains/all-i-am-chords-2459374" target="blank">All I Am</a>{{</rawhtml>}} (chords)
@@ -59,6 +59,8 @@ Back in the 90s and early aughts, I played in a band called Opus80. We haven't p
 * Gus Black - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/gus-black/unloaded-chords-1465355" target="blank">Unloaded</a>{{</rawhtml>}} (chords)
 * He Is We - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/he-is-we/every-other-man-chords-2372873" target="blank">Every Other Man</a>{{</rawhtml>}} (chords)
 * He Is We - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/he-is-we/frankenstein-chords-3957271" target="blank">Frankenstein</a>{{</rawhtml>}} (chords)
+* Hodera - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/hodera/mothers-wine-chords-4664108" target="blank">Mothers Wine</a>{{</rawhtml>}} (chords)
+* Hodera - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/hodera/trying-chords-4656986" target="blank">Trying</a>{{</rawhtml>}} (chords)
 * Isaac Gracie - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/isaac-gracie/reverie-chords-1965271" target="blank">Reverie</a>{{</rawhtml>}} (chords)
 * James Blunt - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/james-blunt/2005-chords-1982403" target="blank">2005</a>{{</rawhtml>}} (chords)
 * John Mayer - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/john-mayer/slow-dancing-in-a-burning-room-guitar-pro-2283623" target="blank">Slow Dancing In A Burning Room</a>{{</rawhtml>}} (guitarpro)
@@ -118,3 +120,4 @@ Back in the 90s and early aughts, I played in a band called Opus80. We haven't p
 * The Northern Pikes - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/the-northern-pikes/hole-in-the-ground-chords-4305107" target="blank">Hole In The Ground</a>{{</rawhtml>}} (chords)
 * Thriving Ivory - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/thriving-ivory/this-is-it-chords-2255463" target="blank">This Is It</a>{{</rawhtml>}} (chords)
 * Travis Greene - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/travis-greene/love-will-aways-win-chords-2476942" target="blank">Love Will Aways Win</a>{{</rawhtml>}} (chords)
+

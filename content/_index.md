@@ -9,4 +9,4 @@ Outside of work, I have a rotation of hobbies I get into pretty obsessively. [Pl
 This site has been around since 2000, but I basically started from scratch in 2022. If you were looking for something specific but can't find it, [email me](mailto:hello@gusperez.com) and I'll dig it up and repost it [here](/blog/).
 
 ## Contact
-The easiest way to reach me is [email](mailto:hello@gusperez.com), but you can also find me on [Mastodon](https://hachyderm.io/@gusper), [Twitter](https://twitter.com/gusper), and [LinkedIn](https://www.linkedin.com/in/gusperez/).
+The easiest way to reach me is [email](mailto:hello@gusperez.com), but you can also find me on [Mastodon](https://hachyderm.io/@gusper) and [LinkedIn](https://www.linkedin.com/in/gusperez/).

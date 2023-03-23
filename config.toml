@@ -29,11 +29,6 @@ html_attributes = "rel=\"me\""
   twitter = "gusper"
 
 [[params.socialIcons]]
-icon = "fa-brands fa-twitter"
-title = "Twitter"
-url = "https://twitter.com/gusper"
-
-[[params.socialIcons]]
 icon = "fab fa-linkedin"
 title = "LinkedIn"
 url = "https://linkedin.com/in/gusperez/"
