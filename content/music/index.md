@@ -1,6 +1,6 @@
 ---
 title: "Music"
-date: 2024-11-02T14:14:19-08:00
+date: 2022-11-10T14:14:19-08:00
 draft: false
 ---
 ## Guitar 
