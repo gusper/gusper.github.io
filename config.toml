@@ -33,6 +33,12 @@ icon = "fas fa-envelope"
 title = "e-mail"
 url = "mailto:hello@gusperez.com"
 
+"fa-brands fa-bluesky"
+[[params.socialIcons]]
+icon = "fa-brands fa-bluesky"
+title = "Bluesky"
+url = "https://bsky.app/profile/gusperez.com"
+
 [[params.socialIcons]]
 icon = "fab fa-linkedin"
 title = "LinkedIn"
