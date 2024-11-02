@@ -3,19 +3,19 @@ title: "Music"
 date: 2022-11-10T14:14:19-08:00
 draft: false
 ---
+## 9u5p
+
+I've starting releasing new music under the 9u5p moniker. Find me on [Bandcamp](https://9u5p.bandcamp.com/), [Spotify](https://open.spotify.com/artist/0IA7AlQwNOapn6AOWGbIRz?si=yadTrF6xQimwp0x_6bVlmQ), [Apple Music](https://music.apple.com/us/artist/9u5p/1502707196), [YouTube](https://www.youtube.com/@9u5p), [Amazon](https://www.amazon.com/music/player/artists/B085W4XW7X/9u5p), and [Soundcloud](https://soundcloud.com/9u5p).
+
 ## Guitar 
 
 I created [GuitarTube.org](https://guitartube.org) in 2016. Some folks have found it useful, so I'm keeping it around. Still may do more, but we'll see. 
 
-I've also been transcribing songs I enjoy more and more over the years and sharing them on [Ultimate Guitar](https://www.ultimate-guitar.com/contribution/6193383-gusp3r/tabs) and [some on Soundslice](https://www.soundslice.com/users/gusper/). Scroll down to see the full list.
-
-## 9u5p
-
-I've starting releasing new music under the 9u5p moniker. Find me on [Bandcamp](https://9u5p.bandcamp.com/), [Spotify](https://open.spotify.com/artist/0IA7AlQwNOapn6AOWGbIRz?si=yadTrF6xQimwp0x_6bVlmQ), [Apple Music](https://music.apple.com/us/artist/9u5p/1502707196), [YouTube Music](https://www.youtube.com/@9u5p), [Amazon Music](https://www.amazon.com/music/player/artists/B085W4XW7X/9u5p), and [Soundcloud](https://soundcloud.com/9u5p).
+I've also been transcribing songs I enjoy more and more over the years and sharing them on [Ultimate Guitar](https://www.ultimate-guitar.com/contribution/6193383-gusp3r/tabs) and [some on Soundslice](https://www.soundslice.com/users/gusper/). Scroll down below to see the full list.
 
 ## Opus80
 
-Back in the 90s and early aughts, I played in a band called Opus80. We haven't played a show in ages but still get together to jam whenever we get a chance. More recently we've recorded [some videos](https://www.youtube.com/watch?v=oFWiSBx_elE) for charity events at work. See more on our old [YouTube channel](https://www.youtube.com/watch?v=6wqmfkVMIyM).
+Back in the 90s and early aughts, I played in a band called Opus80. We haven't played a show in ages but still get together to jam whenever we get a chance.
 
 ## Song transcriptions (tabs, chord charts, etc.)
 100 songs I've transcribed and shared as of March 23, 2023:
