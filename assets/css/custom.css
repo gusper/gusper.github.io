@@ -1,0 +1,104 @@
+/* Better fonts */
+* {
+    font-family: colfax-web, open sans, segoe ui, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Adelle, Georgia, serif;
+    margin-bottom: 0.15rem;
+}
+
+.archive__heading {
+    font-family: Adelle, Georgia, serif;
+    font-size: 3rem;
+}
+
+.sidebar__content {
+    margin-top: 50px;
+    justify-content: unset;
+}
+
+.sidebar__introduction-title a {
+    font-family: Adelle, Georgia, serif;
+    font-size: 5rem;
+    text-transform: none;
+}
+
+.archive__list-title {
+    text-transform: none;
+}
+
+p {
+    margin-top: 0.45em;
+    line-height: 1.4em;
+}
+
+/* Brighter hyperlinks in dark theme */
+.theme--dark .post__content a {
+    color: #7eace4;
+}
+
+/* Mobile burger more prominent */
+a.navbar-burger {
+    height: 4.25rem;
+    width: 5.25rem;
+}
+.navbar-burger__line {
+    height: 2px;
+    width: 19px;
+}
+.navbar-burger__line:nth-child(1) {
+    top: calc(50% - 8px);
+}
+.navbar-burger__line:nth-child(2) {
+    top: calc(50% - 2px);
+}
+.navbar-burger__line:nth-child(3) {
+    top: calc(50% + 4px);
+}
+
+/* Headshot */
+.sidebar__introduction-profileimage {
+    width: 160px;
+    height: 160px;
+}
+
+/* Layouts */
+
+@media screen and (min-width: 961px) {
+    .wrapper__main {
+        width:calc(.7 * 100%)
+    }
+}
+
+@media screen and (min-width: 1921px) {
+    .wrapper__main {
+        width:calc(.7 * 80%)
+    }
+}
+
+@media screen and (min-width: 961px) {
+    .wrapper__main--fullscreen {
+        width:100%;
+        margin-top: 0
+    }
+}
+
+@media screen and (min-width: 1921px) {
+    .wrapper__main--fullscreen {
+        width:1920px
+    }
+}
+
+@media screen and (min-width: 961px) {
+    .wrapper__sidebar {
+        width:calc(calc(1 - .7) * 100%);
+        padding: 0
+    }
+}
+
+@media screen and (min-width: 1921px) {
+    .wrapper__sidebar {
+        width:calc(calc(1 - .7) * 80%)
+    }
+}

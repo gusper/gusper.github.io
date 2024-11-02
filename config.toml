@@ -1,0 +1,105 @@
+baseURL = 'https://gusperez.com/'
+languageCode = 'en-us'
+title = 'Gus Perez'
+include = ["/.well-known"]
+pluralizeListTitles = false
+
+[params]
+title = "Gus Perez"
+author = "Gus Perez"
+profilePicture = "img/gus.png"
+description = ""
+images = ["images/site-feature-image.png"]
+fullPostContent = false
+postSectionName = "blog"
+mainSections = []
+doNotLoadAnimations = true # Animations are loaded by default
+customCss = ["css/custom.css"]
+gtagId = "G-F3BD84Q92C"
+enableRobotsTXT = true
+favicon = "favicons/"
+
+[[params.socialIcons]]
+icon = "fa-brands fa-mastodon"
+title = "Mastodon"
+url = "https://hachyderm.io/@gusper"
+html_attributes = "rel=\"me\""
+
+[social]
+  twitter = "gusper"
+
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "LinkedIn"
+url = "https://linkedin.com/in/gusperez/"
+
+[[params.socialIcons]]
+icon = "fas fa-envelope"
+title = "e-mail"
+url = "mailto:hello@gusperez.com"
+
+[[params.socialIcons]]
+icon = "fa-brands fa-spotify"
+title = "Spotify"
+url = "https://open.spotify.com/artist/0IA7AlQwNOapn6AOWGbIRz?si=iWOYH1A7R3e3XoC4gmOrTg"
+
+[[params.socialIcons]]
+icon = "fa-brands fa-github"
+title = "GitHub"
+url = "https://github.com/gusper"
+
+[[params.socialIcons]]
+icon = "fa-brands fa-deviantart"
+title = "DeviantArt"
+url = "https://deviantart.com/gusp3r/gallery"
+
+[menu]
+
+  [[menu.main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[menu.main]]
+  name = "Blog"
+  weight = 200
+  identifier = "blog"
+  url = "/blog/"
+
+  [[menu.main]]
+  name = "Music"
+  weight = 300
+  identifier = "music"
+  url = "/music/"
+
+  [[menu.main]]
+  name = "Software"
+  weight = 400
+  identifier = "software"
+  url = "/software/"
+
+  [[menu.main]]
+  name = "Maker"
+  weight = 500
+  identifier = "maker"
+  url = "/maker/"
+
+  [[menu.main]]
+  name = "Photography"
+  weight = 600
+  identifier = "photography"
+  url = "/photography/"
+
+  [[menu.main]]
+  name = "Art"
+  weight = 700
+  identifier = "art"
+  url = "/art/"
+
+[module]
+  # uncomment line below for temporary local development of module
+  # replacements = "github.com/lxndrblz/anatole -> ../../anatole"
+  [[module.imports]]
+    path = "github.com/lxndrblz/anatole"
+    disable = false
