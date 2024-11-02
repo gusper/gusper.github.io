@@ -53,11 +53,6 @@ icon = "fa-brands fa-github"
 title = "GitHub"
 url = "https://github.com/gusper"
 
-[[params.socialIcons]]
-icon = "fa-brands fa-deviantart"
-title = "DeviantArt"
-url = "https://deviantart.com/gusp3r/gallery"
-
 [menu]
 
   [[menu.main]]
