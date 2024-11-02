@@ -1,6 +1,6 @@
 ---
 title: "Music"
-date: 2022-11-10T14:14:19-08:00
+date: 2024-11-02T14:14:19-08:00
 draft: false
 ---
 ## Guitar 
@@ -11,7 +11,7 @@ I've also been transcribing songs I enjoy more and more over the years and shari
 
 ## 9u5p
 
-I'm hoping to get around to recording more and will share that under the 9U5P moniker. See more over on [Spotify and other streaming services](https://distrokid.com/hyperfollow/9u5p/rerise). You can also check out [my Soundcloud page](https://soundcloud.com/9u5p).
+I've starting releasing new music under the 9u5p moniker. Find me on [Bandcamp](https://9u5p.bandcamp.com/), [Spotify](https://open.spotify.com/artist/0IA7AlQwNOapn6AOWGbIRz?si=yadTrF6xQimwp0x_6bVlmQ), [Apple Music](https://music.apple.com/us/artist/9u5p/1502707196), [YouTube Music](https://www.youtube.com/@9u5p), [Amazon Music](https://www.amazon.com/music/player/artists/B085W4XW7X/9u5p), and [Soundcloud](https://soundcloud.com/9u5p).
 
 ## Opus80
 
