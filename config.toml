@@ -39,11 +39,6 @@ title = "Bluesky"
 url = "https://bsky.app/profile/gusperez.com"
 
 [[params.socialIcons]]
-icon = "fab fa-linkedin"
-title = "LinkedIn"
-url = "https://linkedin.com/in/gusperez/"
-
-[[params.socialIcons]]
 icon = "fa-brands fa-spotify"
 title = "Spotify"
 url = "https://open.spotify.com/artist/0IA7AlQwNOapn6AOWGbIRz?si=iWOYH1A7R3e3XoC4gmOrTg"
@@ -57,6 +52,11 @@ url = "https://9u5p.bandcamp.com/"
 icon = "fa-brands fa-github"
 title = "GitHub"
 url = "https://github.com/gusper"
+
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "LinkedIn"
+url = "https://linkedin.com/in/gusperez/"
 
 [menu]
 
