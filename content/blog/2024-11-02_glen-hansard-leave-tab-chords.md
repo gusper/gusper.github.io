@@ -6,7 +6,7 @@ draft: false
 
 This is one I guess I missed posting on Ultimate Guitar. Sharing it here in the meantime as it was one I'd posted in the past and have now been asked a couple times for it.
 
-Verse Chords: 
+### Verse Chords: 
 ```
     E5  C#/Dbm9 Badd11 Aadd9 
 E --0---0-------0------0------ 
@@ -16,7 +16,7 @@ D --9---9-------9------7------
 A --7---7-------9------7------ 
 E --0---9-------7------5------ 
 ```
-Chorus and Outro Chords: 
+### Chorus and Outro Chords: 
 ```
     C#m/E B5  A5  F#11  E   G# 
 E --0-----0---0---0-----0---4-- 
