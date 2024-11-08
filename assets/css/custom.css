@@ -33,6 +33,32 @@ p {
     line-height: 1.4em;
 }
 
+/* Override dark theme background color */
+.theme--dark .nav__list {
+    background-color: #181818;
+}
+
+.theme--dark .body {
+    color: #eee;
+    background-color: #181818;
+}
+
+.theme--dark .post {
+    background-color: transparent;
+}
+
+.theme--dark .post__content {
+    background-color: transparent;
+}
+
+.theme--dark .post__content pre {
+    background-color: #1e1e1e;
+}
+
+.theme--dark .header {
+    background-color: transparent;
+}
+
 /* Brighter hyperlinks in dark theme */
 .theme--dark .post__content a {
     color: #7eace4;
