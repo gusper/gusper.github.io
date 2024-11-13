@@ -25,9 +25,6 @@ title = "Mastodon"
 url = "https://hachyderm.io/@gusper"
 html_attributes = "rel=\"me\""
 
-[social]
-  twitter = "gusper"
-
 [[params.socialIcons]]
 icon = "fas fa-envelope"
 title = "e-mail"
