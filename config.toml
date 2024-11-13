@@ -20,6 +20,11 @@ enableRobotsTXT = true
 favicon = "favicons/"
 
 [[params.socialIcons]]
+icon = "fa-brands fa-bluesky"
+title = "Bluesky"
+url = "https://bsky.app/profile/gusperez.com"
+
+[[params.socialIcons]]
 icon = "fa-brands fa-mastodon"
 title = "Mastodon"
 url = "https://hachyderm.io/@gusper"
@@ -29,11 +34,6 @@ html_attributes = "rel=\"me\""
 icon = "fas fa-envelope"
 title = "e-mail"
 url = "mailto:hello@gusperez.com"
-
-[[params.socialIcons]]
-icon = "fa-brands fa-bluesky"
-title = "Bluesky"
-url = "https://bsky.app/profile/gusperez.com"
 
 [[params.socialIcons]]
 icon = "fa-brands fa-spotify"
