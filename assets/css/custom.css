@@ -1,15 +1,15 @@
 /* Better fonts */
 * {
-    font-family: colfax-web, open sans, segoe ui, sans-serif;
+    font-family: 'bricolage grotesque', colfax-web, open sans, segoe ui, sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: Adelle, Georgia, serif;
+    font-family: 'Carrois Gothic SC',Adelle, Georgia, serif;
     margin-bottom: 0.15rem;
 }
 
 .archive__heading {
-    font-family: Adelle, Georgia, serif;
+    font-family: 'Carrois Gothic SC',Adelle, Georgia, serif;
     font-size: 3rem;
 }
 
@@ -19,7 +19,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .sidebar__introduction-title a {
-    font-family: Adelle, Georgia, serif;
+    font-family: 'Carrois Gothic SC',Adelle, Georgia, serif;
     font-size: 5rem;
     text-transform: none;
 }

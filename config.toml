@@ -18,7 +18,10 @@ customCss = ["css/custom.css"]
 gtagId = "G-F3BD84Q92C"
 enableRobotsTXT = true
 favicon = "favicons/"
-
+googleFonts = [
+  "Bricolage+Grotesque:opsz,wght@12..96,200..800",
+  "Carrois+Gothic+SC"
+]
 [[params.socialIcons]]
 icon = "fa-brands fa-bluesky"
 title = "Bluesky"
