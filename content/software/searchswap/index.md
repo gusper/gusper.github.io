@@ -26,7 +26,7 @@ Here's what the main window looks like. Simply click on the site you want to swi
 <img src="searchswap-open.png" width="50%" alt="SearchSwap icon on the browser's toolbar">
 {{</rawhtml>}}
 
-I also added an Options page that allows users to add, delete, and modify (a bit clunky now but will improve later) their list of sites.
+I also added an Options page that allows users to add, delete, and modify (admittedly, a bit clunky now but will improve later) their list of sites.
 
 {{<rawhtml>}}
 <img src="edge2.png" width="60%" alt="SearchSwap icon on the browser's toolbar">
