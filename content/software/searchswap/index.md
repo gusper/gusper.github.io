@@ -20,7 +20,7 @@ SearchSwap is a browser extension that makes it really quick and easy to hop aro
 
 If you installed it but don't see SearchSwap on your toolbar, try clicking on the puzzle piece icon (the one immediately to the right in the screenshot above) as it's likely just not yet visible on your toolbar. I suggest you *pin* it so it's always just a click away on your toolbar.
 
-Here's what the main window looks like. Simply click on the site you want to switch to and SearchSwap will open up a new tab and repeat the same search on the site you clicked. 
+Here's what the main window looks like. Simply click on the site you want to switch to, and SearchSwap will open up a new tab and repeat the same search on the site you clicked. 
 
 {{<rawhtml>}}
 <img src="searchswap-open.png" width="50%" alt="SearchSwap icon on the browser's toolbar">
