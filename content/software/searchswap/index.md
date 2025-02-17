@@ -12,7 +12,7 @@ Currently support Microsoft Edge and Google Chrome. I'll consider adding support
 * [Install for Google Chrome](https://chrome.google.com/webstore/detail/searchswap/meakfdkjiehkccdibhahjlgnihicmlel)
 
 ## Overview
-SearchSwap is a browser extension that makes it really quick and easy to hop around different search engines and sites. E.g., imagine you're searching for something on Google but want to do the same search on Bing or Amazon. All you have to do is click on the SearchSwap extension icon on the browser's toolbar and then click on Bing, Amazon, or any of the other supported sites. 
+SearchSwap is a browser extension that makes it really quick and easy to hop around different search engines and sites. E.g., imagine you're searching for something on Google but want to do the same search on Bing or Amazon. All you have to do is click on the SearchSwap extension icon on the browser's toolbar and then click on Bing, Amazon, or any of the other sites in the list. 
 
 {{<rawhtml>}}
 <img src="toolbar.png" width="70%" alt="SearchSwap extension icon on the browser's toolbar">
