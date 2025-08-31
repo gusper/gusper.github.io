@@ -82,7 +82,10 @@ code {
 .theme--light .post__content pre {
     background-color: #eee;
 }
-
+/* Override code block backgrounds */
+.theme--dark .post__content pre {
+    background-color: #292929;
+}
 /* Mobile burger more prominent */
 a.navbar-burger {
     height: 4.25rem;
