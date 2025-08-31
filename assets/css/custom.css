@@ -64,6 +64,25 @@ p {
     color: #7eace4;
 }
 
+/* Inline code styling */
+code {
+    background-color: #eee;
+    padding: 0.2em 0.4em;
+    border-radius: 3px;
+    font-size: 0.9em;
+    color: #4a6fa5;
+}
+
+.theme--dark code {
+    background-color: #292929;
+    color: #7eb3d3;
+}
+
+/* Override code block backgrounds */
+.theme--light .post__content pre {
+    background-color: #eee;
+}
+
 /* Mobile burger more prominent */
 a.navbar-burger {
     height: 4.25rem;
@@ -129,16 +148,3 @@ a.navbar-burger {
     }
 }
 
-/* Inline code styling */
-code {
-    background-color: #f4f4f4;
-    padding: 0.2em 0.4em;
-    border-radius: 3px;
-    font-size: 0.9em;
-    color: #d14;
-}
-
-.theme--dark code {
-    background-color: #2d2d2d;
-    color: #ff6b6b;
-}
