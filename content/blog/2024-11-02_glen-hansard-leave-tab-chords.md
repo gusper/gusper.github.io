@@ -8,7 +8,7 @@ This is one I guess I missed posting on Ultimate Guitar. Sharing it here in the 
 
 ### Verse Chords: 
 ```
-    E5  C#/Dbm9 Badd11 Aadd9 
+   E5  C#/Dbm9 Badd11 Aadd9 
 E --0---0-------0------0------ 
 B --0---0-------0------0------ 
 G --9---8-------8------6------ 
@@ -18,7 +18,7 @@ E --0---9-------7------5------
 ```
 ### Chorus and Outro Chords: 
 ```
-    C#m/E B5  A5  F#11  E   G# 
+   C#m/E B5  A5  F#11  E   G# 
 E --0-----0---0---0-----0---4-- 
 B --5-----0---0---0-----0---4-- 
 G --6-----4---2---3-----1---5-- 
