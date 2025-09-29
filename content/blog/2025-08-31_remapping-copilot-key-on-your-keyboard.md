@@ -1,5 +1,5 @@
 ---
-title: "Remapping Copilot key to END key (and others)"
+title: "Remapping your keyboard's Copilot key to END key (and others)"
 date: 2025-08-31T11:32:51-07:00
 draft: false
 ---

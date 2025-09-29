@@ -1,5 +1,5 @@
 ---
-title: "Getting iMessage Blue Again"
+title: "Getting iMessage blue again"
 date: 2025-09-28T17:39:14-07:00
 draft: false
 ---
