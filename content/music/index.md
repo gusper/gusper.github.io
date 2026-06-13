@@ -18,7 +18,7 @@ I've also been transcribing songs I enjoy more and more over the years and shari
 Back in the 90s and early aughts, I played in a band called Opus80. We haven't played a show in ages but still get together to jam whenever we get a chance.
 
 ## Song transcriptions (tabs, chord charts, etc.)
-109 songs I've transcribed and shared as of June 12, 2026:
+109 songs I've transcribed and shared as of June 13, 2026:
 
 * Addict - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/addict/teenage-angel-tabs-1465340" target="blank">Teenage Angel</a>{{</rawhtml>}} (tabs)
 * Alice In Chains - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/alice-in-chains/all-i-am-chords-2459374" target="blank">All I Am</a>{{</rawhtml>}} (chords)
@@ -93,6 +93,7 @@ Back in the 90s and early aughts, I played in a band called Opus80. We haven't p
 * Nick Santino - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/nick-santino/never-coming-back-chords-2471632" target="blank">Never Coming Back</a>{{</rawhtml>}} (chords)
 * Nil Lara - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/nil-lara/how-was-i-to-know-chords-1465367" target="blank">How Was I To Know</a>{{</rawhtml>}} (chords)
 * Noah Gundersen - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/noah-gundersen/driving-with-my-eyes-closed-chords-6325400" target="blank">Driving With My Eyes Closed</a>{{</rawhtml>}} (chords)
+* Noah Gundersen - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/noah-gundersen/signs-and-wonders-chords-6486410" target="blank">Signs and Wonders</a>{{</rawhtml>}} (chords)
 * Noah Gundersen - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/noah-gundersen/watermelon-chords-2861651" target="blank">Watermelon</a>{{</rawhtml>}} (chords)
 * Old Sea Brigade - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/old-sea-brigade/at-my-best-chords-6103604" target="blank">At My Best</a>{{</rawhtml>}} (chords)
 * Our Lady Peace - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/our-lady-peace/hiding-place-for-hearts-chords-2326669" target="blank">Hiding Place For Hearts</a>{{</rawhtml>}} (chords)
