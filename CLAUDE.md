@@ -9,6 +9,7 @@ This is a personal website built with Hugo static site generator, hosted on GitH
 ## Development Commands
 
 ### Local Development
+- Requires Hugo (extended), Go (for Hugo modules), and Dart Sass (the theme compiles its styles with it): `brew install hugo go dart-sass`
 - `hugo server` - Start local development server at http://localhost:1313/
 - `hugo server --buildDrafts` - Include draft posts in local development
 - `hugo server --buildFuture` - Include future-dated posts (already enabled via config)
@@ -26,9 +27,10 @@ This is a personal website built with Hugo static site generator, hosted on GitH
 ## Site Architecture
 
 ### Theme and Configuration
-- Uses the Anatole Hugo theme (github.com/lxndrblz/anatole v1.15.1)
+- Uses the Anatole Hugo theme (github.com/lxndrblz/anatole v1.20.0)
 - Theme is imported as a Hugo module via `go.mod`
-- Main configuration in `config.toml`
+- Main configuration in `hugo.toml`
+- Production Hugo version is pinned as `HUGO_VERSION` in `.github/workflows/hugo.yml`; keep it in step with the local version
 - Custom CSS styling in `assets/css/custom.css`
 - Custom fonts: Bricolage Grotesque and Carrois Gothic SC from Google Fonts
 - `buildFuture = true` allows posts with future dates to be published
@@ -42,9 +44,8 @@ This is a personal website built with Hugo static site generator, hosted on GitH
 
 ### Layout Customization
 - Custom layouts in `layouts/` override theme defaults
-- Specialized layouts for software section in `layouts/software/`
-- Custom head partial in `layouts/partials/head.html` with font loading optimizations
-- Custom footer in `layouts/partials/footer.html`
+- Software section list page in `layouts/software/section.html`; everything else falls back to `layouts/_default/` or the theme
+- Custom head partial in `layouts/partials/head.html` (a copy of the theme's with a `fediverse:creator` meta tag and non-blocking Google Fonts loading); re-sync it with the theme's version when upgrading the theme
 
 ### Styling Notes
 - Inline code styling uses pastelly dark-ish blue colors (#4a6fa5 light, #7eb3d3 dark)
