@@ -8,7 +8,7 @@ buildFuture = true
 [params]
 title = "Gus Perez"
 author = "Gus Perez"
-profilePicture = "img/gus.png"
+profilePicture = "img/gus.jpg"
 description = ""
 images = ["images/site-feature-image.png"]
 fullPostContent = false
