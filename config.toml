@@ -1,5 +1,5 @@
 baseURL = 'https://gusperez.com/'
-languageCode = 'en-us'
+locale = 'en-us'
 title = 'Gus Perez'
 include = ["/.well-known"]
 pluralizeListTitles = false
