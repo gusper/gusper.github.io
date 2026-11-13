@@ -33,13 +33,18 @@ jobs:
     runs-on: ubuntu-latest
     env:
       HUGO_VERSION: 0.167.0
+      DART_SASS_VERSION: 1.107.1
     steps:
       - name: Install Hugo CLI
         run: |
           wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb \
           && sudo dpkg -i ${{ runner.temp }}/hugo.deb          
       - name: Install Dart Sass
-        run: sudo snap install dart-sass
+        # Download from GitHub releases rather than snap, so deploys don't depend on the Snap Store
+        run: |
+          curl -fsSL -o ${{ runner.temp }}/dart-sass.tar.gz https://github.com/sass/dart-sass/releases/download/${DART_SASS_VERSION}/dart-sass-${DART_SASS_VERSION}-linux-x64.tar.gz \
+          && tar -C ${{ runner.temp }} -xzf ${{ runner.temp }}/dart-sass.tar.gz \
+          && echo "${{ runner.temp }}/dart-sass" >> "${GITHUB_PATH}"
       - name: Checkout
         uses: actions/checkout@v7
         with:
