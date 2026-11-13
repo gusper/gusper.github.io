@@ -18,7 +18,7 @@ I've also been transcribing songs I enjoy more and more over the years and shari
 Back in the 90s and early aughts, I played in a band called Opus80. We haven't played a show in ages but still get together to jam whenever we get a chance.
 
 ## Song transcriptions (tabs, chord charts, etc.)
-116 songs I've transcribed and shared as of November 12, 2026:
+116 songs I've transcribed and shared as of November 12, 2026 with a total of 274,010 views:
 
 * Addict - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/addict/teenage-angel-tabs-1465340" target="blank">Teenage Angel</a>{{</rawhtml>}} (tabs, 416 views)
 * Alice In Chains - {{<rawhtml>}}<a href="https://tabs.ultimate-guitar.com/tab/alice-in-chains/all-i-am-chords-2459374" target="blank">All I Am</a>{{</rawhtml>}} (chords, 6,970 views)
