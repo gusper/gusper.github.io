@@ -29,12 +29,6 @@ title = "Bluesky"
 url = "https://bsky.app/profile/gusperez.com"
 
 [[params.socialIcons]]
-icon = "fa-brands fa-mastodon"
-title = "Mastodon"
-url = "https://hachyderm.io/@gusper"
-html_attributes = "rel=\"me\""
-
-[[params.socialIcons]]
 icon = "fas fa-envelope"
 title = "e-mail"
 url = "mailto:hello@gusperez.com"
@@ -53,6 +47,12 @@ url = "https://9u5p.bandcamp.com/"
 icon = "fa-brands fa-github"
 title = "GitHub"
 url = "https://github.com/gusper"
+
+[[params.socialIcons]]
+icon = "fa-brands fa-mastodon"
+title = "Mastodon"
+url = "https://hachyderm.io/@gusper"
+html_attributes = "rel=\"me\""
 
 [[params.socialIcons]]
 icon = "fab fa-linkedin"
